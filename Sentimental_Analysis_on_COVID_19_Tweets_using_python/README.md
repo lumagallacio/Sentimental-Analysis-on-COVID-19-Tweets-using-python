@@ -1,4 +1,3 @@
 # Sentimental-Analysis-on-COVID-19-Tweets-using-python
-Preprocess text data for Sentimental <br>
-Label text data with positive, negative and neutral sentiments <br>
-visualize the result of sentiment Analysis <br>
+By the end of this project you will learn how to preprocess your text data for sentimental analysis. 
+So in this project we are going to use a Dataset consisting of data related to the tweets from the 24th of July, 2020 to the 30th of August 2020 with COVID19 hashtags. We are going to use python to apply sentimental analysis on the tweets to see people's reactions to the pandemic during the mentioned period. We are going to label the tweets as Positive, Negative, and neutral. After that, we are going to visualize the result to see the people's reactions on Twitter.
