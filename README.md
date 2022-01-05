@@ -1,1 +1,1 @@
-# Repository to share python projects 
+# My python study projects 
